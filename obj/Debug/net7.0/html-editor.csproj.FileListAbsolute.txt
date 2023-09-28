@@ -1,0 +1,14 @@
+D:\Libraries\dev\Baltaio\html-editor\bin\Debug\net7.0\html-editor.exe
+D:\Libraries\dev\Baltaio\html-editor\bin\Debug\net7.0\html-editor.deps.json
+D:\Libraries\dev\Baltaio\html-editor\bin\Debug\net7.0\html-editor.runtimeconfig.json
+D:\Libraries\dev\Baltaio\html-editor\bin\Debug\net7.0\html-editor.dll
+D:\Libraries\dev\Baltaio\html-editor\bin\Debug\net7.0\html-editor.pdb
+D:\Libraries\dev\Baltaio\html-editor\obj\Debug\net7.0\html-editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Libraries\dev\Baltaio\html-editor\obj\Debug\net7.0\html-editor.AssemblyInfoInputs.cache
+D:\Libraries\dev\Baltaio\html-editor\obj\Debug\net7.0\html-editor.AssemblyInfo.cs
+D:\Libraries\dev\Baltaio\html-editor\obj\Debug\net7.0\html-editor.csproj.CoreCompileInputs.cache
+D:\Libraries\dev\Baltaio\html-editor\obj\Debug\net7.0\html-editor.dll
+D:\Libraries\dev\Baltaio\html-editor\obj\Debug\net7.0\refint\html-editor.dll
+D:\Libraries\dev\Baltaio\html-editor\obj\Debug\net7.0\html-editor.pdb
+D:\Libraries\dev\Baltaio\html-editor\obj\Debug\net7.0\html-editor.genruntimeconfig.cache
+D:\Libraries\dev\Baltaio\html-editor\obj\Debug\net7.0\ref\html-editor.dll
